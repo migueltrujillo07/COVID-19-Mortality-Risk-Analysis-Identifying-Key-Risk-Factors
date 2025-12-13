@@ -12,7 +12,7 @@ Due to size and data governance considerations, the dataset is **not stored in t
 ### Dataset characteristics
 - Type: Tabular data
 - Domain: Public health / Epidemiology
-- Records: > 100
+- Records: > 1'000'000
 - Format: CSV
 - Temporal coverage: Jan 2020– July 2020
 - Anonymized: Yes (no personally identifiable information)
