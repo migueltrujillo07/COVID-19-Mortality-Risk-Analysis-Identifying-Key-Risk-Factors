@@ -6,7 +6,7 @@ Due to size and data governance considerations, the dataset is **not stored in t
 
 ### Data source
 - **Source:** Dirección General de Epidemiología (DGE), Secretaría de Salud, México
-- **Dataset:** Cierre Datos Abiertos Históricos 2020
+- **Dataset:** Cierre Datos Abiertos Históricos 2021
 - **Access:** https://www.gob.mx/salud/documentos/datos-abiertos-bases-historicas-direccion-general-de-epidemiologia
 
 ### Dataset characteristics
@@ -14,7 +14,7 @@ Due to size and data governance considerations, the dataset is **not stored in t
 - Domain: Public health / Epidemiology
 - Records: > 1'000'000
 - Format: CSV
-- Temporal coverage: Jan 2020– July 2020
+- Temporal coverage: Jan 2021 – Dec 2021
 - Anonymized: Yes (no personally identifiable information)
 
 ### Main variables
