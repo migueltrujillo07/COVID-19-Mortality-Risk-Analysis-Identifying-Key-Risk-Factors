@@ -6,7 +6,7 @@ This project analyzes demographic, medical, and condition-based factors that inf
 
 ## 🔍 Research Questions
 
-1️⃣ **Which risk factors are more relevant or have more impact on the death of a person on 2021?**
+1️⃣ **Which risk factors are more relevant or have more impact on the death of a person from Jan 2021 to June 2022?**
 
 2️⃣ **Was COVID-19 the main cause of death during this period compared to other causes?**
 
