@@ -46,6 +46,12 @@ Depending on availability and quality of cause-of-death information, we compare:
 
 ---
 
+## Project Outputs
+
+- 📄 [Exploratory Data Analysis Notebooks](notebooks/)
+- 📊 [Key Figures](reports/figures/)
+- 📝 [Final Conclusions](reports/conclusions.md)
+---
 ## Repository Structure
 ```text
 covid19-eda-risk-factors/
@@ -69,16 +75,4 @@ covid19-eda-risk-factors/
 ├── README.md
 └── LICENSE
 
-## Project Outputs
 
-- 📄 [Exploratory Data Analysis Notebooks](notebooks/)
-- 📊 [Key Figures](reports/figures/)
-- 📝 [Final Conclusions](reports/conclusions.md)
-
-
-## 📂 Project Structure
-
-```text
-data/
-notebooks/
-reports/
